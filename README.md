@@ -67,7 +67,8 @@ The process of creating short URLs involves using a counter that is safe for con
 3. Includes comprehensive test coverage to ensure reliability.
  
 # Areas for Enhancement and Proposed Solutions:
-0. Storing user password and secret keys information in settings and Docker Compose files is not secure. It's essential to relocate this information to a more secure environment.
+0. This is not a production ready solution. 
+   I use django dev server to run app. Storing user password and secret keys information in settings and Docker Compose files is not secure as well. It's essential to relocate this information to a more secure environment and use something lke Gunicorn to run application.
 1. Caching Absence at /shortener/ Endpoint:
    Solution: Implementing a caching layer, such as Redis, could significantly enhance performance. This layer would first attempt to retrieve the short URL from the cache before defaulting to a PostgreSQL query if not found. Additionally, incorporating a background process to increment the query count would optimize efficiency further.
 2. Caching Absence at /shortener/top Endpoint:
