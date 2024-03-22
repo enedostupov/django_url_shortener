@@ -1,0 +1,664 @@
+[2024-03-21 21:06:36,445: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:06:36,456: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 21:06:36,456: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:06:36,458: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 21:06:37,471: INFO/MainProcess] mingle: all alone
+[2024-03-21 21:06:37,492: INFO/MainProcess] celery@dba3c96ca747 ready.
+[2024-03-21 21:07:04,002: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:07:04,009: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 21:07:04,009: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:07:04,010: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 21:07:05,023: INFO/MainProcess] mingle: all alone
+[2024-03-21 21:07:05,047: INFO/MainProcess] celery@dba3c96ca747 ready.
+[2024-03-21 21:16:55,390: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:16:55,401: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 21:16:55,401: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:16:55,403: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 21:16:56,413: INFO/MainProcess] mingle: all alone
+[2024-03-21 21:16:56,423: INFO/MainProcess] celery@5f3b784f389f ready.
+[2024-03-21 21:20:03,353: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:20:03,368: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 21:20:03,369: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:20:03,371: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 21:20:04,380: INFO/MainProcess] mingle: all alone
+[2024-03-21 21:20:04,400: INFO/MainProcess] celery@1c4be2320ef3 ready.
+[2024-03-21 21:59:44,518: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:59:44,527: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 21:59:44,528: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 21:59:44,529: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 21:59:45,537: INFO/MainProcess] mingle: all alone
+[2024-03-21 21:59:45,557: INFO/MainProcess] celery@7f8e0e956572 ready.
+[2024-03-21 22:06:12,399: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 22:06:12,409: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 22:06:12,409: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 22:06:12,410: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 22:06:13,415: INFO/MainProcess] mingle: all alone
+[2024-03-21 22:06:13,423: INFO/MainProcess] celery@c551e6e6bc42 ready.
+[2024-03-21 22:07:47,927: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 22:07:47,943: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 22:07:47,944: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 22:07:47,946: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 22:07:48,961: INFO/MainProcess] mingle: all alone
+[2024-03-21 22:07:48,983: INFO/MainProcess] celery@e08ae09a232c ready.
+[2024-03-21 22:12:07,378: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 22:12:07,387: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 22:12:07,387: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 22:12:07,388: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 22:12:08,397: INFO/MainProcess] mingle: all alone
+[2024-03-21 22:12:08,406: INFO/MainProcess] celery@32e9009aa6c5 ready.
+[2024-03-21 23:10:45,997: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:10:46,005: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:10:46,005: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:10:46,007: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:10:47,014: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:10:47,022: INFO/MainProcess] celery@31c723467dfd ready.
+[2024-03-21 23:19:01,243: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:19:01,251: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:19:01,251: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:19:01,253: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:19:02,259: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:19:02,269: INFO/MainProcess] celery@ad66840ea272 ready.
+[2024-03-21 23:23:32,218: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:23:32,225: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:23:32,226: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:23:32,227: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:23:33,234: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:23:33,254: INFO/MainProcess] celery@397c477e526d ready.
+[2024-03-21 23:26:55,832: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:26:55,839: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:26:55,840: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:26:55,841: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:26:56,849: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:26:56,858: INFO/MainProcess] celery@6a531023ced5 ready.
+[2024-03-21 23:31:57,204: INFO/MainProcess] Task shortener.tasks.crawl_url[14d7e008-1a62-46db-89a5-d2e12315acd0] received
+[2024-03-21 23:31:57,211: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:31:57,212: WARNING/ForkPoolWorker-7] name 'original_url' is not defined
+[2024-03-21 23:31:57,212: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:31:57,223: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[14d7e008-1a62-46db-89a5-d2e12315acd0] succeeded in 0.013340332996449433s: ''
+[2024-03-21 23:32:04,589: INFO/MainProcess] Task shortener.tasks.crawl_url[72f55f9a-4a06-487b-b153-9f5013476615] received
+[2024-03-21 23:32:04,594: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:32:04,594: WARNING/ForkPoolWorker-7] name 'original_url' is not defined
+[2024-03-21 23:32:04,594: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:32:04,595: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[72f55f9a-4a06-487b-b153-9f5013476615] succeeded in 0.0019668750028358772s: ''
+[2024-03-21 23:32:37,607: INFO/MainProcess] Task shortener.tasks.crawl_url[9415089e-e157-4336-b619-367ad09a854b] received
+[2024-03-21 23:32:37,609: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:32:37,609: WARNING/ForkPoolWorker-7] name 'original_url' is not defined
+[2024-03-21 23:32:37,609: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:32:37,610: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[9415089e-e157-4336-b619-367ad09a854b] succeeded in 0.0009333329944638535s: ''
+[2024-03-21 23:33:04,570: INFO/MainProcess] Task shortener.tasks.crawl_url[37504d1d-c408-4c62-8b49-1e9614bdb7bd] received
+[2024-03-21 23:33:04,571: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:33:04,571: WARNING/ForkPoolWorker-7] name 'original_url' is not defined
+[2024-03-21 23:33:04,571: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:33:04,572: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[37504d1d-c408-4c62-8b49-1e9614bdb7bd] succeeded in 0.0011573340016184375s: ''
+[2024-03-21 23:33:10,019: INFO/MainProcess] Task shortener.tasks.crawl_url[7cd217fb-2896-49e5-a20b-78fb9f5b7753] received
+[2024-03-21 23:33:10,021: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:33:10,022: WARNING/ForkPoolWorker-7] name 'original_url' is not defined
+[2024-03-21 23:33:10,022: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:33:10,023: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[7cd217fb-2896-49e5-a20b-78fb9f5b7753] succeeded in 0.002118624994182028s: ''
+[2024-03-21 23:33:43,039: INFO/MainProcess] Task shortener.tasks.crawl_url[c3ad18e3-df0a-4ae8-b187-0eb91616b161] received
+[2024-03-21 23:33:43,040: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:33:43,041: WARNING/ForkPoolWorker-7] name 'original_url' is not defined
+[2024-03-21 23:33:43,041: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:33:43,042: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[c3ad18e3-df0a-4ae8-b187-0eb91616b161] succeeded in 0.0012168750108685344s: ''
+[2024-03-21 23:34:22,593: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:34:22,603: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:34:22,603: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:34:22,605: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:34:23,612: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:34:23,619: INFO/MainProcess] celery@10437b785379 ready.
+[2024-03-21 23:34:28,018: INFO/MainProcess] Task shortener.tasks.crawl_url[9137bbc7-2ab8-4b0f-b79c-a24c9036a251] received
+[2024-03-21 23:34:28,019: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:34:28,020: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:34:28,020: WARNING/ForkPoolWorker-7] local variable 'title' referenced before assignment
+[2024-03-21 23:34:28,020: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:34:28,026: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[9137bbc7-2ab8-4b0f-b79c-a24c9036a251] succeeded in 0.0071202920080395415s: ''
+[2024-03-21 23:34:53,299: INFO/MainProcess] Task shortener.tasks.crawl_url[419a9834-54b1-477c-af86-ec7a7b5ac9d0] received
+[2024-03-21 23:34:53,299: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:34:53,300: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:34:53,300: WARNING/ForkPoolWorker-7] local variable 'title' referenced before assignment
+[2024-03-21 23:34:53,300: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:34:53,301: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[419a9834-54b1-477c-af86-ec7a7b5ac9d0] succeeded in 0.0012007500045001507s: ''
+[2024-03-21 23:35:02,936: INFO/MainProcess] Task shortener.tasks.crawl_url[d4eae5a0-9c3f-4824-a1fe-419298d86b7a] received
+[2024-03-21 23:35:02,938: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:35:02,939: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:35:02,940: WARNING/ForkPoolWorker-7] local variable 'title' referenced before assignment
+[2024-03-21 23:35:02,940: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:35:02,941: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[d4eae5a0-9c3f-4824-a1fe-419298d86b7a] succeeded in 0.003220750004402362s: ''
+[2024-03-21 23:35:22,968: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:35:22,976: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:35:22,976: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:35:22,978: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:35:23,991: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:35:24,008: INFO/MainProcess] celery@dc0b6f61a3a9 ready.
+[2024-03-21 23:35:30,583: INFO/MainProcess] Task shortener.tasks.crawl_url[ee633f0b-0d95-45da-ac11-a6083349de8e] received
+[2024-03-21 23:35:30,585: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:35:30,585: WARNING/ForkPoolWorker-7] start
+[2024-03-21 23:35:30,585: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:35:31,378: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:35:31,379: WARNING/ForkPoolWorker-7] HTTP Error 403: Forbidden
+[2024-03-21 23:35:31,379: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:35:31,382: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[ee633f0b-0d95-45da-ac11-a6083349de8e] succeeded in 0.7979336669959594s: ''
+[2024-03-21 23:36:20,689: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:36:20,696: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:36:20,697: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:36:20,698: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:36:21,713: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:36:21,735: INFO/MainProcess] celery@fc22fa1249fa ready.
+[2024-03-21 23:36:23,591: INFO/MainProcess] Task shortener.tasks.crawl_url[5dddaf5d-47ab-4112-bdb3-03ec4013a4b6] received
+[2024-03-21 23:36:23,592: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:23,593: WARNING/ForkPoolWorker-7] start http://ya26.ru
+[2024-03-21 23:36:23,593: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:24,213: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:24,214: WARNING/ForkPoolWorker-7] HTTP Error 403: Forbidden
+[2024-03-21 23:36:24,214: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:24,220: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[5dddaf5d-47ab-4112-bdb3-03ec4013a4b6] succeeded in 0.6279722920007771s: ''
+[2024-03-21 23:36:46,829: INFO/MainProcess] Task shortener.tasks.crawl_url[b4def67b-fc4d-42a3-a4cb-f7b360feb626] received
+[2024-03-21 23:36:46,833: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:46,834: WARNING/ForkPoolWorker-7] start http://yandex.ru
+[2024-03-21 23:36:46,834: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:50,912: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:50,913: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-21 23:36:50,914: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:36:50,915: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[b4def67b-fc4d-42a3-a4cb-f7b360feb626] succeeded in 4.082168377004564s: ''
+[2024-03-21 23:37:23,399: INFO/MainProcess] Task shortener.tasks.crawl_url[f6e2384c-7715-4a71-8f3e-ba5a4d278b1d] received
+[2024-03-21 23:37:23,401: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:37:23,402: WARNING/ForkPoolWorker-7] start http://google.com
+[2024-03-21 23:37:23,403: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:37:24,146: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[f6e2384c-7715-4a71-8f3e-ba5a4d278b1d] succeeded in 0.7448601250071079s: 'Google'
+[2024-03-21 23:37:40,383: INFO/MainProcess] Task shortener.tasks.crawl_url[a7bab0d3-56a9-4358-81a5-8149a9257a2f] received
+[2024-03-21 23:37:40,386: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:37:40,386: WARNING/ForkPoolWorker-7] start http://rbc.ru
+[2024-03-21 23:37:40,387: WARNING/ForkPoolWorker-7] ##############
+[2024-03-21 23:37:44,452: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[a7bab0d3-56a9-4358-81a5-8149a9257a2f] succeeded in 4.0666736679995665s: 'Последние новости дня в России и мире сегодня - свежие новости на РБК'
+[2024-03-21 23:39:52,822: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:39:52,831: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:39:52,833: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:39:52,834: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:39:53,844: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:39:53,868: INFO/MainProcess] celery@fc22fa1249fa ready.
+[2024-03-21 23:44:42,680: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:44:42,691: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-21 23:44:42,692: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-21 23:44:42,694: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-21 23:44:43,702: INFO/MainProcess] mingle: all alone
+[2024-03-21 23:44:43,722: INFO/MainProcess] celery@fac7dd6fc152 ready.
+[2024-03-21 23:49:50,161: INFO/MainProcess] Task shortener.tasks.crawl_url[2f087198-ef67-4c2b-8420-b90ec1667d59] received
+[2024-03-21 23:49:54,090: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[2f087198-ef67-4c2b-8420-b90ec1667d59] succeeded in 3.919356543003232s: 'Ой, Капча!'
+[2024-03-22 00:00:23,005: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 00:00:23,014: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-22 00:00:23,015: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 00:00:23,016: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-22 00:00:24,024: INFO/MainProcess] mingle: all alone
+[2024-03-22 00:00:24,037: INFO/MainProcess] celery@09081da25445 ready.
+[2024-03-22 00:26:53,751: INFO/MainProcess] Task shortener.tasks.crawl_url[44af36d6-ac07-44b9-bb9a-d82e655d42a3] received
+[2024-03-22 00:26:55,500: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-22 00:26:55,510: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[44af36d6-ac07-44b9-bb9a-d82e655d42a3] succeeded in 1.7534151669970015s: ''
+[2024-03-22 00:28:25,219: INFO/MainProcess] Task shortener.tasks.crawl_url[b8af2122-6123-48ce-88ee-e3bf18981457] received
+[2024-03-22 00:28:26,004: WARNING/ForkPoolWorker-7] HTTP Error 404: Not Found
+[2024-03-22 00:28:26,008: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[b8af2122-6123-48ce-88ee-e3bf18981457] succeeded in 0.785942000002251s: ''
+[2024-03-22 00:31:48,527: INFO/MainProcess] Task shortener.tasks.crawl_url[b6862275-bd12-4675-a4e2-c9dc4bd7c28f] received
+[2024-03-22 00:31:48,843: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-22 00:31:48,845: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[b6862275-bd12-4675-a4e2-c9dc4bd7c28f] succeeded in 0.31565691699506715s: ''
+[2024-03-22 00:32:17,071: INFO/MainProcess] Task shortener.tasks.crawl_url[60ac3f84-a462-41ac-9cc9-038aac349d2f] received
+[2024-03-22 00:32:17,074: INFO/MainProcess] Task shortener.tasks.crawl_url[5008ca62-c7b7-4d10-94bf-154db0be9d7d] received
+[2024-03-22 00:32:17,077: INFO/MainProcess] Task shortener.tasks.crawl_url[8084aee2-57ed-4dcb-8251-c3bb7063b2bf] received
+[2024-03-22 00:32:17,080: INFO/MainProcess] Task shortener.tasks.crawl_url[93aa4dbf-6cff-4172-88a3-258df8705c74] received
+[2024-03-22 00:32:17,084: INFO/MainProcess] Task shortener.tasks.crawl_url[1773af02-9dfb-4bda-a1cf-b9ef09f37c2c] received
+[2024-03-22 00:32:17,088: INFO/MainProcess] Task shortener.tasks.crawl_url[5d892016-2afb-4472-8527-69d22d1e6257] received
+[2024-03-22 00:32:17,092: INFO/MainProcess] Task shortener.tasks.crawl_url[75aa0307-7606-4b22-b514-6d88a6d449f8] received
+[2024-03-22 00:32:17,097: INFO/MainProcess] Task shortener.tasks.crawl_url[816ae49c-1d74-4b51-a71c-894e01fe0839] received
+[2024-03-22 00:32:17,101: INFO/MainProcess] Task shortener.tasks.crawl_url[d3c11662-6da8-490a-b869-abdcd1193138] received
+[2024-03-22 00:32:17,106: INFO/MainProcess] Task shortener.tasks.crawl_url[85fa819b-be93-4e04-8306-73dfd04ebc11] received
+[2024-03-22 00:32:17,386: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-22 00:32:17,389: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[60ac3f84-a462-41ac-9cc9-038aac349d2f] succeeded in 0.31671183300204575s: ''
+[2024-03-22 00:32:17,395: WARNING/ForkPoolWorker-8] HTTP Error 404: Not Found
+[2024-03-22 00:32:17,404: INFO/ForkPoolWorker-8] Task shortener.tasks.crawl_url[5008ca62-c7b7-4d10-94bf-154db0be9d7d] succeeded in 0.3273977500066394s: ''
+[2024-03-22 00:32:17,710: WARNING/ForkPoolWorker-10] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 00:32:17,723: INFO/ForkPoolWorker-10] Task shortener.tasks.crawl_url[5d892016-2afb-4472-8527-69d22d1e6257] succeeded in 0.6322867919952841s: ''
+[2024-03-22 00:32:17,871: WARNING/ForkPoolWorker-3] HTTP Error 404: Not Found
+[2024-03-22 00:32:17,875: INFO/ForkPoolWorker-3] Task shortener.tasks.crawl_url[75aa0307-7606-4b22-b514-6d88a6d449f8] succeeded in 0.7747603329917183s: ''
+[2024-03-22 00:32:17,921: WARNING/ForkPoolWorker-2] HTTP Error 403: Forbidden
+[2024-03-22 00:32:17,925: INFO/ForkPoolWorker-2] Task shortener.tasks.crawl_url[1773af02-9dfb-4bda-a1cf-b9ef09f37c2c] succeeded in 0.8375373339949874s: ''
+[2024-03-22 00:32:17,945: WARNING/ForkPoolWorker-11] HTTP Error 403: Forbidden
+[2024-03-22 00:32:17,948: INFO/ForkPoolWorker-11] Task shortener.tasks.crawl_url[816ae49c-1d74-4b51-a71c-894e01fe0839] succeeded in 0.844930209001177s: ''
+[2024-03-22 00:32:17,988: WARNING/ForkPoolWorker-12] HTTP Error 403: Forbidden
+[2024-03-22 00:32:17,992: INFO/ForkPoolWorker-12] Task shortener.tasks.crawl_url[85fa819b-be93-4e04-8306-73dfd04ebc11] succeeded in 0.8803451670100912s: ''
+[2024-03-22 00:32:19,365: INFO/ForkPoolWorker-4] Task shortener.tasks.crawl_url[d3c11662-6da8-490a-b869-abdcd1193138] succeeded in 2.2560430849989643s: '
+Soft14 - the best software out there: business, video, office, finance, audio, management, multimedia, hobby, utilities and games, useful applications. Purchase or free download, shareware, freeware, trial, demo, cheap or professional; for PC MAC tablet smartphone app'
+[2024-03-22 00:32:20,685: INFO/ForkPoolWorker-1] Task shortener.tasks.crawl_url[8084aee2-57ed-4dcb-8251-c3bb7063b2bf] succeeded in 3.6046891269943444s: 'Sight8 (s/e + ight)'
+[2024-03-22 00:32:21,641: WARNING/ForkPoolWorker-9] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 00:32:21,653: INFO/ForkPoolWorker-9] Task shortener.tasks.crawl_url[93aa4dbf-6cff-4172-88a3-258df8705c74] succeeded in 4.569173252006294s: ''
+[2024-03-22 00:35:19,652: INFO/MainProcess] Task shortener.tasks.crawl_url[e8d8f9f0-a67c-42a0-9c8b-a96c1ed732bb] received
+[2024-03-22 00:35:19,654: INFO/MainProcess] Task shortener.tasks.crawl_url[3362e55b-5377-45f6-940a-9c9a8522769e] received
+[2024-03-22 00:35:19,657: INFO/MainProcess] Task shortener.tasks.crawl_url[a49478d8-b2aa-4516-a16e-e8171dd94b7c] received
+[2024-03-22 00:35:19,660: INFO/MainProcess] Task shortener.tasks.crawl_url[20df32f2-e219-4c74-b0e0-edcd0c870ab3] received
+[2024-03-22 00:35:19,662: INFO/MainProcess] Task shortener.tasks.crawl_url[43879d11-2db3-4ff7-a7bd-dd77cc6f436b] received
+[2024-03-22 00:35:19,665: INFO/MainProcess] Task shortener.tasks.crawl_url[aac8e1e5-6172-46e4-a57a-07eedad8dc09] received
+[2024-03-22 00:35:19,667: INFO/MainProcess] Task shortener.tasks.crawl_url[806643bf-764e-4a77-bbb4-b0efa9a2b871] received
+[2024-03-22 00:35:19,670: INFO/MainProcess] Task shortener.tasks.crawl_url[a0cadef0-8f6c-4a46-a185-2a55a675d28d] received
+[2024-03-22 00:35:19,672: INFO/MainProcess] Task shortener.tasks.crawl_url[c7440369-f8d3-4f23-96f9-ea9691f63971] received
+[2024-03-22 00:35:19,675: INFO/MainProcess] Task shortener.tasks.crawl_url[22bfcbd7-9c8e-4ff8-9d9b-db50bfdde920] received
+[2024-03-22 00:35:19,769: WARNING/ForkPoolWorker-10] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 00:35:19,770: INFO/ForkPoolWorker-10] Task shortener.tasks.crawl_url[aac8e1e5-6172-46e4-a57a-07eedad8dc09] succeeded in 0.10500933400180656s: ''
+[2024-03-22 00:35:19,970: WARNING/ForkPoolWorker-3] HTTP Error 404: Not Found
+[2024-03-22 00:35:19,974: INFO/ForkPoolWorker-3] Task shortener.tasks.crawl_url[806643bf-764e-4a77-bbb4-b0efa9a2b871] succeeded in 0.3064130419952562s: ''
+[2024-03-22 00:35:20,137: WARNING/ForkPoolWorker-12] HTTP Error 403: Forbidden
+[2024-03-22 00:35:20,138: INFO/ForkPoolWorker-12] Task shortener.tasks.crawl_url[22bfcbd7-9c8e-4ff8-9d9b-db50bfdde920] succeeded in 0.463035167005728s: ''
+[2024-03-22 00:35:20,144: WARNING/ForkPoolWorker-2] HTTP Error 403: Forbidden
+[2024-03-22 00:35:20,145: INFO/ForkPoolWorker-2] Task shortener.tasks.crawl_url[43879d11-2db3-4ff7-a7bd-dd77cc6f436b] succeeded in 0.48264212498907s: ''
+[2024-03-22 00:35:20,187: WARNING/ForkPoolWorker-11] HTTP Error 403: Forbidden
+[2024-03-22 00:35:20,189: INFO/ForkPoolWorker-11] Task shortener.tasks.crawl_url[a0cadef0-8f6c-4a46-a185-2a55a675d28d] succeeded in 0.5186916259990539s: ''
+[2024-03-22 00:35:20,366: WARNING/ForkPoolWorker-8] HTTP Error 404: Not Found
+[2024-03-22 00:35:20,373: INFO/ForkPoolWorker-8] Task shortener.tasks.crawl_url[3362e55b-5377-45f6-940a-9c9a8522769e] succeeded in 0.7182033749995753s: ''
+[2024-03-22 00:35:20,483: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-22 00:35:20,487: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[e8d8f9f0-a67c-42a0-9c8b-a96c1ed732bb] succeeded in 0.8341534170031082s: ''
+[2024-03-22 00:35:21,052: INFO/ForkPoolWorker-4] Task shortener.tasks.crawl_url[c7440369-f8d3-4f23-96f9-ea9691f63971] succeeded in 1.3791221249994123s: '
+Soft14 - the best software out there: business, video, office, finance, audio, management, multimedia, hobby, utilities and games, useful applications. Purchase or free download, shareware, freeware, trial, demo, cheap or professional; for PC MAC tablet smartphone app'
+[2024-03-22 00:35:22,054: INFO/ForkPoolWorker-1] Task shortener.tasks.crawl_url[a49478d8-b2aa-4516-a16e-e8171dd94b7c] succeeded in 2.396762876000139s: 'Sight8 (s/e + ight)'
+[2024-03-22 00:35:25,891: WARNING/ForkPoolWorker-9] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 00:35:25,895: INFO/ForkPoolWorker-9] Task shortener.tasks.crawl_url[20df32f2-e219-4c74-b0e0-edcd0c870ab3] succeeded in 6.235228170000482s: ''
+[2024-03-22 00:35:53,286: INFO/MainProcess] Task shortener.tasks.crawl_url[4b79ec41-e64f-49ae-af59-cd4a75a7342f] received
+[2024-03-22 00:35:53,289: INFO/MainProcess] Task shortener.tasks.crawl_url[2f6d0819-7c2c-4a7a-a9c7-a8b63a70bb4e] received
+[2024-03-22 00:35:53,291: INFO/MainProcess] Task shortener.tasks.crawl_url[7b0144ef-9679-45cd-8335-c386ddc928b3] received
+[2024-03-22 00:35:53,294: INFO/MainProcess] Task shortener.tasks.crawl_url[794f8e59-6c8d-4141-b1d9-8c63a262016d] received
+[2024-03-22 00:35:53,297: INFO/MainProcess] Task shortener.tasks.crawl_url[c3d618c6-0f6a-424a-9e12-3f08bb3b0881] received
+[2024-03-22 00:35:53,297: WARNING/ForkPoolWorker-9] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 00:35:53,298: INFO/ForkPoolWorker-9] Task shortener.tasks.crawl_url[794f8e59-6c8d-4141-b1d9-8c63a262016d] succeeded in 0.0031526660022791475s: ''
+[2024-03-22 00:35:53,299: INFO/MainProcess] Task shortener.tasks.crawl_url[162038f9-9904-4e8d-a0d8-8e8c67e72733] received
+[2024-03-22 00:35:53,301: INFO/MainProcess] Task shortener.tasks.crawl_url[9ea922d8-3eb9-4e02-8b0c-9145508afd76] received
+[2024-03-22 00:35:53,302: WARNING/ForkPoolWorker-9] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 00:35:53,303: INFO/ForkPoolWorker-9] Task shortener.tasks.crawl_url[162038f9-9904-4e8d-a0d8-8e8c67e72733] succeeded in 0.0032837920007295907s: ''
+[2024-03-22 00:35:53,304: INFO/MainProcess] Task shortener.tasks.crawl_url[35085589-47cb-46fa-9bb1-47dbbce14eb9] received
+[2024-03-22 00:35:53,307: INFO/MainProcess] Task shortener.tasks.crawl_url[73369a5d-90a4-4dc2-8052-5c569b544eb8] received
+[2024-03-22 00:35:53,309: INFO/MainProcess] Task shortener.tasks.crawl_url[3ede4d5c-d833-4835-881c-324be37046ec] received
+[2024-03-22 00:35:53,594: WARNING/ForkPoolWorker-8] HTTP Error 404: Not Found
+[2024-03-22 00:35:53,599: INFO/ForkPoolWorker-8] Task shortener.tasks.crawl_url[2f6d0819-7c2c-4a7a-a9c7-a8b63a70bb4e] succeeded in 0.30910362499707844s: ''
+[2024-03-22 00:35:53,602: WARNING/ForkPoolWorker-10] HTTP Error 404: Not Found
+[2024-03-22 00:35:53,604: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-22 00:35:53,605: INFO/ForkPoolWorker-10] Task shortener.tasks.crawl_url[9ea922d8-3eb9-4e02-8b0c-9145508afd76] succeeded in 0.3032898330129683s: ''
+[2024-03-22 00:35:53,607: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[4b79ec41-e64f-49ae-af59-cd4a75a7342f] succeeded in 0.31965499999932945s: ''
+[2024-03-22 00:35:53,782: WARNING/ForkPoolWorker-11] HTTP Error 403: Forbidden
+[2024-03-22 00:35:53,784: INFO/ForkPoolWorker-11] Task shortener.tasks.crawl_url[3ede4d5c-d833-4835-881c-324be37046ec] succeeded in 0.47463212499860674s: ''
+[2024-03-22 00:35:53,793: WARNING/ForkPoolWorker-9] HTTP Error 403: Forbidden
+[2024-03-22 00:35:53,794: WARNING/ForkPoolWorker-2] HTTP Error 403: Forbidden
+[2024-03-22 00:35:53,795: INFO/ForkPoolWorker-9] Task shortener.tasks.crawl_url[35085589-47cb-46fa-9bb1-47dbbce14eb9] succeeded in 0.49012450099689886s: ''
+[2024-03-22 00:35:53,795: INFO/ForkPoolWorker-2] Task shortener.tasks.crawl_url[c3d618c6-0f6a-424a-9e12-3f08bb3b0881] succeeded in 0.49822820800181944s: ''
+[2024-03-22 00:35:54,676: INFO/ForkPoolWorker-3] Task shortener.tasks.crawl_url[73369a5d-90a4-4dc2-8052-5c569b544eb8] succeeded in 1.368838958995184s: '
+Soft14 - the best software out there: business, video, office, finance, audio, management, multimedia, hobby, utilities and games, useful applications. Purchase or free download, shareware, freeware, trial, demo, cheap or professional; for PC MAC tablet smartphone app'
+[2024-03-22 00:35:55,734: INFO/ForkPoolWorker-1] Task shortener.tasks.crawl_url[7b0144ef-9679-45cd-8335-c386ddc928b3] succeeded in 2.442456876000506s: 'Sight8 (s/e + ight)'
+[2024-03-22 01:02:31,345: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 01:02:31,355: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-22 01:02:31,355: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 01:02:31,356: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-22 01:02:32,362: INFO/MainProcess] mingle: all alone
+[2024-03-22 01:02:32,372: INFO/MainProcess] celery@29fd9574a20e ready.
+[2024-03-22 01:03:51,210: INFO/MainProcess] Task shortener.tasks.crawl_url[95c94fda-1910-46b8-afd4-aaa05b501fa8] received
+[2024-03-22 01:03:52,500: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[95c94fda-1910-46b8-afd4-aaa05b501fa8] succeeded in 1.287271958994097s: 'Gmail'
+[2024-03-22 01:21:21,721: INFO/MainProcess] Task shortener.tasks.crawl_url[f1be2955-fffa-4823-9482-b72e73a3bd41] received
+[2024-03-22 01:21:22,009: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[f1be2955-fffa-4823-9482-b72e73a3bd41] succeeded in 0.2786112920002779s: 'Google'
+[2024-03-22 01:23:22,251: INFO/MainProcess] Task shortener.tasks.crawl_url[8d560cfc-bdc2-49e5-a6d3-6bbfbd74e4aa] received
+[2024-03-22 01:23:25,018: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[8d560cfc-bdc2-49e5-a6d3-6bbfbd74e4aa] succeeded in 2.760054876009235s: 'Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos'
+[2024-03-22 01:24:03,086: INFO/MainProcess] Task shortener.tasks.crawl_url[e0081741-3ed8-4112-9423-39c1815c6b27] received
+[2024-03-22 01:24:07,337: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[e0081741-3ed8-4112-9423-39c1815c6b27] succeeded in 4.248911752001732s: 'Mail.ru: почта, поиск в интернете, новости, игры'
+[2024-03-22 01:25:28,003: INFO/MainProcess] Task shortener.tasks.crawl_url[3a0559e2-365f-4c33-9499-06237780b7c9] received
+[2024-03-22 01:25:31,945: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[3a0559e2-365f-4c33-9499-06237780b7c9] succeeded in 3.9393364599964116s: 'VK.com | VK'
+[2024-03-22 01:58:11,175: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 01:58:11,186: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-22 01:58:11,186: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 01:58:11,187: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-22 01:58:12,196: INFO/MainProcess] mingle: all alone
+[2024-03-22 01:58:12,213: INFO/MainProcess] celery@9d91bb163c58 ready.
+[2024-03-22 02:22:17,585: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 02:22:17,598: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-22 02:22:17,598: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 02:22:17,599: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-22 02:22:18,606: INFO/MainProcess] mingle: all alone
+[2024-03-22 02:22:18,615: INFO/MainProcess] celery@7eacec6abe25 ready.
+[2024-03-22 02:23:31,764: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py", line 340, in start
+    blueprint.start(self)
+  File "/usr/local/lib/python3.10/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+  File "/usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py", line 742, in start
+    c.loop(*c.loop_args())
+  File "/usr/local/lib/python3.10/site-packages/celery/worker/loops.py", line 97, in asynloop
+    next(loop)
+  File "/usr/local/lib/python3.10/site-packages/kombu/asynchronous/hub.py", line 373, in create_loop
+    cb(*cbargs)
+  File "/usr/local/lib/python3.10/site-packages/kombu/transport/redis.py", line 1344, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/usr/local/lib/python3.10/site-packages/kombu/transport/redis.py", line 569, in on_readable
+    chan.handlers[type]()
+  File "/usr/local/lib/python3.10/site-packages/kombu/transport/redis.py", line 913, in _receive
+    ret.append(self._receive_one(c))
+  File "/usr/local/lib/python3.10/site-packages/kombu/transport/redis.py", line 923, in _receive_one
+    response = c.parse_response()
+  File "/usr/local/lib/python3.10/site-packages/redis/client.py", line 1531, in parse_response
+    response = self._execute(conn, try_read)
+  File "/usr/local/lib/python3.10/site-packages/redis/client.py", line 1507, in _execute
+    return conn.retry.call_with_retry(
+  File "/usr/local/lib/python3.10/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/usr/local/lib/python3.10/site-packages/redis/client.py", line 1509, in <lambda>
+    lambda error: self._disconnect_raise_connect(conn, error),
+  File "/usr/local/lib/python3.10/site-packages/redis/client.py", line 1496, in _disconnect_raise_connect
+    raise error
+  File "/usr/local/lib/python3.10/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+  File "/usr/local/lib/python3.10/site-packages/redis/client.py", line 1508, in <lambda>
+    lambda: command(*args, **kwargs),
+  File "/usr/local/lib/python3.10/site-packages/redis/client.py", line 1529, in try_read
+    return conn.read_response()
+  File "/usr/local/lib/python3.10/site-packages/redis/connection.py", line 812, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+  File "/usr/local/lib/python3.10/site-packages/redis/connection.py", line 318, in read_response
+    raw = self._buffer.readline()
+  File "/usr/local/lib/python3.10/site-packages/redis/connection.py", line 249, in readline
+    self._read_from_socket()
+  File "/usr/local/lib/python3.10/site-packages/redis/connection.py", line 195, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2024-03-22 02:23:31,772: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:391: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered
+back to the queue. You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss
+setting. In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
+[2024-03-22 02:46:11,951: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 02:46:11,963: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-22 02:46:11,964: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 02:46:11,966: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-22 02:46:12,976: INFO/MainProcess] mingle: all alone
+[2024-03-22 02:46:12,984: INFO/MainProcess] celery@cc894a4cc348 ready.
+[2024-03-22 02:59:31,089: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 02:59:31,101: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-22 02:59:31,101: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 02:59:31,102: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-22 02:59:32,114: INFO/MainProcess] mingle: all alone
+[2024-03-22 02:59:32,138: INFO/MainProcess] celery@cc894a4cc348 ready.
+[2024-03-22 02:59:38,879: INFO/MainProcess] Task shortener.tasks.crawl_url[cc435b05-19a0-4943-a242-deff949659d5] received
+[2024-03-22 02:59:39,628: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[cc435b05-19a0-4943-a242-deff949659d5] succeeded in 0.7466870839998592s: 'Facebook - Inicia sesión o regístrate'
+[2024-03-22 03:06:59,855: INFO/MainProcess] Task shortener.tasks.crawl_url[6740aac3-d675-487a-a480-34b23ea2fbe2] received
+[2024-03-22 03:07:00,471: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-22 03:07:00,478: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[6740aac3-d675-487a-a480-34b23ea2fbe2] succeeded in 0.6153964580007596s: ''
+[2024-03-22 03:09:00,973: INFO/MainProcess] Task shortener.tasks.crawl_url[57c4e077-7b2e-49be-8cc5-1599c7370c8d] received
+[2024-03-22 03:09:00,976: INFO/MainProcess] Task shortener.tasks.crawl_url[e5c9a0ec-e17b-44cf-9c1a-2efcb7574920] received
+[2024-03-22 03:09:00,979: INFO/MainProcess] Task shortener.tasks.crawl_url[b9ef0927-29b0-418b-a079-dba62dd57cbc] received
+[2024-03-22 03:09:00,982: INFO/MainProcess] Task shortener.tasks.crawl_url[ad95006d-cc63-4239-90c5-b8d210132470] received
+[2024-03-22 03:09:00,986: INFO/MainProcess] Task shortener.tasks.crawl_url[c37f5fa0-4b91-450e-a54f-1f3fc99febfe] received
+[2024-03-22 03:09:00,990: INFO/MainProcess] Task shortener.tasks.crawl_url[f473d0da-a198-4cee-acb4-597f754eda64] received
+[2024-03-22 03:09:00,993: INFO/MainProcess] Task shortener.tasks.crawl_url[134d0e4e-d6e9-4a8c-965d-2dba52aced36] received
+[2024-03-22 03:09:00,996: INFO/MainProcess] Task shortener.tasks.crawl_url[40d370d6-a765-4aad-beec-d46f7af7bd7a] received
+[2024-03-22 03:09:01,000: INFO/MainProcess] Task shortener.tasks.crawl_url[467b29bc-e688-4688-bc42-f12762811189] received
+[2024-03-22 03:09:01,008: INFO/MainProcess] Task shortener.tasks.crawl_url[ed90886e-7ba5-4eb2-a6f0-c53b0d8a48c4] received
+[2024-03-22 03:09:01,288: WARNING/ForkPoolWorker-7] 'NoneType' object has no attribute 'string'
+[2024-03-22 03:09:01,291: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[57c4e077-7b2e-49be-8cc5-1599c7370c8d] succeeded in 0.31664395800908096s: ''
+[2024-03-22 03:09:01,571: WARNING/ForkPoolWorker-10] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 03:09:01,583: INFO/ForkPoolWorker-10] Task shortener.tasks.crawl_url[f473d0da-a198-4cee-acb4-597f754eda64] succeeded in 0.5796556660061469s: ''
+[2024-03-22 03:09:01,597: WARNING/ForkPoolWorker-8] HTTP Error 404: Not Found
+[2024-03-22 03:09:01,606: INFO/ForkPoolWorker-8] Task shortener.tasks.crawl_url[e5c9a0ec-e17b-44cf-9c1a-2efcb7574920] succeeded in 0.6268771670002025s: ''
+[2024-03-22 03:09:01,844: WARNING/ForkPoolWorker-11] HTTP Error 403: Forbidden
+[2024-03-22 03:09:01,848: INFO/ForkPoolWorker-11] Task shortener.tasks.crawl_url[40d370d6-a765-4aad-beec-d46f7af7bd7a] succeeded in 0.842368001001887s: ''
+[2024-03-22 03:09:01,850: WARNING/ForkPoolWorker-12] HTTP Error 403: Forbidden
+[2024-03-22 03:09:01,851: WARNING/ForkPoolWorker-2] HTTP Error 403: Forbidden
+[2024-03-22 03:09:01,854: INFO/ForkPoolWorker-12] Task shortener.tasks.crawl_url[ed90886e-7ba5-4eb2-a6f0-c53b0d8a48c4] succeeded in 0.8426934580056695s: ''
+[2024-03-22 03:09:01,855: INFO/ForkPoolWorker-2] Task shortener.tasks.crawl_url[c37f5fa0-4b91-450e-a54f-1f3fc99febfe] succeeded in 0.8659265839960426s: ''
+[2024-03-22 03:09:02,116: WARNING/ForkPoolWorker-3] HTTP Error 404: Not Found
+[2024-03-22 03:09:02,124: INFO/ForkPoolWorker-3] Task shortener.tasks.crawl_url[134d0e4e-d6e9-4a8c-965d-2dba52aced36] succeeded in 1.119617834003293s: ''
+[2024-03-22 03:09:02,700: INFO/ForkPoolWorker-4] Task shortener.tasks.crawl_url[467b29bc-e688-4688-bc42-f12762811189] succeeded in 1.6936154590075603s: '
+Soft14 - the best software out there: business, video, office, finance, audio, management, multimedia, hobby, utilities and games, useful applications. Purchase or free download, shareware, freeware, trial, demo, cheap or professional; for PC MAC tablet smartphone app'
+[2024-03-22 03:09:04,550: WARNING/ForkPoolWorker-9] <urlopen error [Errno -2] Name or service not known>
+[2024-03-22 03:09:04,563: INFO/ForkPoolWorker-9] Task shortener.tasks.crawl_url[ad95006d-cc63-4239-90c5-b8d210132470] succeeded in 3.577795334989787s: ''
+[2024-03-22 03:09:04,709: INFO/ForkPoolWorker-1] Task shortener.tasks.crawl_url[b9ef0927-29b0-418b-a079-dba62dd57cbc] succeeded in 3.7268924599920865s: 'Sight8 (s/e + ight)'
+[2024-03-22 03:19:46,094: INFO/MainProcess] Task shortener.tasks.crawl_url[c860e99d-e71a-4334-b79c-6d2cc31ec106] received
+[2024-03-22 03:19:46,880: INFO/ForkPoolWorker-7] Task shortener.tasks.crawl_url[c860e99d-e71a-4334-b79c-6d2cc31ec106] succeeded in 0.7801526670082239s: ' Google Maps '
+[2024-03-22 03:30:46,354: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 03:30:46,365: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-03-22 03:30:46,365: WARNING/MainProcess] /usr/local/lib/python3.10/site-packages/celery/worker/consumer/consumer.py:507: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-03-22 03:30:46,366: INFO/MainProcess] mingle: searching for neighbors
+[2024-03-22 03:30:47,379: INFO/MainProcess] mingle: all alone
+[2024-03-22 03:30:47,393: INFO/MainProcess] celery@3e2e4a28089e ready.
